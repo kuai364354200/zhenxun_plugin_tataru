@@ -1,5 +1,5 @@
 
-## FF14查询插件
+## 塔塔露查询插件
 移植于TataruBot2
 https://github.com/aaron-lii/TataruBot2
 
