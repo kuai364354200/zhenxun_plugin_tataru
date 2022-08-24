@@ -14,9 +14,9 @@ https://github.com/aaron-lii/TataruBot2
 
 ![图片](https://user-images.githubusercontent.com/72508741/186458863-bc112a91-d4b7-4f4c-9a9a-91da42d50882.png)
 
-##使用指令
+## 使用指令
 
-【塔塔露现有的功能】
+## 【塔塔露现有的功能】
 ### 暖暖：本周时尚品鉴作业 
 ### 选门：帮你选藏宝洞的门 
 ### 仙人彩：帮你选每周仙人仙彩数字 
