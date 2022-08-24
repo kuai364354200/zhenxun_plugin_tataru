@@ -10,7 +10,9 @@ https://github.com/aaron-lii/TataruBot2
 
 ## 备注
 
-有一些问题，比如查询语句发出后，信息会和AI同时回应聊天
+有一些问题，比如查询语句发出后，信息会和AI同时回应
+
+![图片](https://user-images.githubusercontent.com/72508741/186458863-bc112a91-d4b7-4f4c-9a9a-91da42d50882.png)
 
 ## 使用指令
 
