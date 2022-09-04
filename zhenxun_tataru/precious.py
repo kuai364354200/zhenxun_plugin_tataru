@@ -31,7 +31,7 @@ __plugin_settings__ = {
 }
 
 this_command = "选门"
-precious = on_command(this_command, priority=5)
+precious = on_command(this_command, priority=5, block=True)
 
 
 async def precious_help():
