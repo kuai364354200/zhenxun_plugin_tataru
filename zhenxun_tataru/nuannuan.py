@@ -33,7 +33,7 @@ __plugin_settings__ = {
 }
 
 this_command = "暖暖"
-nuannuan = on_command(this_command, priority=5)
+nuannuan = on_command(this_command, priority=5, block=True)
 
 
 async def nuannuan_help():
