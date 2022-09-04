@@ -31,7 +31,7 @@ __plugin_settings__ = {
 }
 
 this_command = "仙人彩"
-lottery = on_command(this_command, priority=5)
+lottery = on_command(this_command, priority=5, block=True)
 
 
 async def lottery_help():
