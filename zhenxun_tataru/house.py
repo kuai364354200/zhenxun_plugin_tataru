@@ -39,7 +39,7 @@ __plugin_settings__ = {
 }
 
 this_command = "房子 "
-house = on_command(this_command, priority=5)
+house = on_command(this_command, priority=5, block=True)
 
 # 超时时间
 time_out = 60

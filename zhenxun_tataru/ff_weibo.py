@@ -30,7 +30,7 @@ __plugin_settings__ = {
 }
 
 this_command = "看看微博"
-ff_weibo = on_command(this_command, priority=5)
+ff_weibo = on_command(this_command, priority=5, block=True)
 
 url = "https://m.weibo.cn/api/container/getIndex?type=uid&value=1797798792&containerid=1076031797798792"
 
