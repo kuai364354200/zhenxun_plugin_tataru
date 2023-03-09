@@ -40,7 +40,7 @@ __plugin_settings__ = {
 }
 
 this_command = "物品 "
-item = on_command(this_command, priority=5)
+item = on_command(this_command, priority=5, block=True)
 
 # 超时时间
 time_out = 60
